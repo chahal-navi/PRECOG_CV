@@ -20,6 +20,7 @@ The directory structure is as follows:
 # How to Run the project:
 
 To run on Google Colab : upload the python notebook titled PRECOG_CV
+```
 To run natively :
   1) git clone https://github.com/chahal-navi/PRECOG_CV.git
      cd PRECOG_CV
@@ -27,3 +28,4 @@ To run natively :
      venv\Scripts\activate
   3) pip install -r requirements.txt
   4) open jupyter notebook and open the file named PRECOG_CV.ipynb
+```

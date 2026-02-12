@@ -3,16 +3,19 @@ The repository consists of a python notebook with all the experiments and result
 Moreover it contains the codes of all the objects and functions used in the training of the models as well
 as their interpretaion. The requirements.txt file contains all the dependencies.
 
-###Note : The code for the ResNET18 model customised for MNIST data was inspired from the Pytorch blog on the same
+### Note : The code for the ResNET18 model customised for MNIST data was inspired from the Pytorch blog on the same
 topic.
 
 The directory structure is as follows:
-|
-|--- README.md
-|--- PRECOG_CV.ipynb
-|--- Report.pdf
-|--- <CODE_FILES>
-|--- requirements.txt
+```markdown
+```text
+.
+├── README.md
+├── PRECOG_CV.ipynb
+├── Report.pdf
+├── <CODE_FILES>
+└── requirements.txt
+```
 
 # How to Run the project:
 
